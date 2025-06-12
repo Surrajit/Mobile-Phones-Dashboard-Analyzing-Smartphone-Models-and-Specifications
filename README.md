@@ -5,7 +5,7 @@
 The dashboard also highlights that Realme dominates with a higher number of models, and companies like Nokia and Huawei have significantly higher average prices, suggesting premium positioning. These insights help manufacturers refine their strategies to meet consumer demands in the competitive smartphone market.
 
 ## Steps Followed
-The following steps were taken to create the Mobile Phones Dashboard using Power BI Desktop, inspired by the Airlines-Dashboard process:
+The following steps were taken to create the Mobile Phones Dashboard using Power BI Desktop:
 
 - Step 1: Loaded the dataset from a CSV file (assumed format based on the provided PDF data) into Power BI Desktop.
 
