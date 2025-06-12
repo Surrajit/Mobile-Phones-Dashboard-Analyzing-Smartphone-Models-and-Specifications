@@ -87,3 +87,4 @@ The following steps were taken to create the Mobile Phones Dashboard using Power
 - Realme: 245.97 g.
 - Motorola: 182.42 g (lightest).
 - Inference: Nokia and Huawei target premium markets with higher prices, while Realme offers budget-friendly options. Huawei and Oppo lead in RAM, and iQO’s high weight may indicate rugged or specialized devices.
+![Image](https://github.com/user-attachments/assets/509e93f0-5def-4c71-b8ba-ea77c218d482)
