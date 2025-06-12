@@ -28,5 +28,5 @@ The following steps were taken to create the Mobile Phones Dashboard using Power
 - Step 10: Created card visuals to highlight key metrics, such as the total number of models (23 from Page 2) and the company with the most models (Realme, with 17 models).
 
 - Step 11: Used a calculated column to categorize models by storage capacity (e.g., 128 GB, 256 GB, 512 GB) for deeper analysis.
-
+![Image](https://github.com/user-attachments/assets/77f52148-736c-467d-8577-658cf32243b1)
 
